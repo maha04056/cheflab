@@ -1,0 +1,10 @@
+{
+  "id": "charlie",
+  "password": {
+    "encrypted_data": "DninMGn4PNM7SpcxArScfXLhi6oq19asejFm\n",
+    "iv": "br7bHaqk7e6BREGb\n",
+    "auth_tag": "jCAqwJmd6eXDu3tZx1jVwg==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}

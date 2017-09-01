@@ -1,0 +1,3 @@
+default['appacheclass']['packahename'] = 'apache2'
+
+
